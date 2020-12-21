@@ -1,0 +1,33 @@
+{
+  "name": "realtime_polling_app",
+  "version": "1.0.0",
+  "description": "Real",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nashthecoder/realtime_polling_app.git"
+  },
+  "keywords": [
+    "real_time",
+    "pollingapp"
+  ],
+  "author": "NashTheCoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nashthecoder/realtime_polling_app/issues"
+  },
+  "homepage": "https://github.com/nashthecoder/realtime_polling_app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.8",
+    "pusher": "^4.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
